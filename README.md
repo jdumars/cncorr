@@ -26,7 +26,7 @@ The assessment is based on a 5 point scale with 1 being least true and 5 being m
 
 ## Assessment Statements
 
-1. Program and Project Management
+# 1. Program and Project Management
 
 Program and project management is the conduit between business strategy and execution.  Because cloud-native technologies remove blockages from the value stream, it can be difficult for organizations to manage iterative project delivery.  Quarterly "big room" Agile planning events may be necessary to untangle dependencies and align stakeholders, departments, and engineering teams.   Also, a key success factor is participation of delivery teams in plan generation since a tightly-coupled feedback loop encourages trust and limits waste.  
 
