@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document provides an organizational readiness self-assessment framework for companies wishing to migrate to Cloud Native Computing. This review ensures that the technical and business alignment of the organization reflects DevOps and Cloud-Native best practices. Where gaps exist, the reviewer should seek effective ways to remediate and increase organizational efficacy, trust, and manageability. If optimally organized, your company will yield improved retention, employee satisfaction, and agility.
+This document (pronounced "cee en core") provides an organizational readiness self-assessment framework for companies wishing to migrate to Cloud Native Computing. This review ensures that the technical and business alignment of the organization reflects DevOps and Cloud-Native best practices. Where gaps exist, the reviewer should seek effective ways to remediate and increase organizational efficacy, trust, and manageability. If optimally organized, your company will yield improved retention, employee satisfaction, and agility.
 
 The foundation for these practices comes from multiple sources including the experiences of the author, Jaice Singer DuMars, the annual State of DevOps reports, industry research and the practices of highly-successful technical organizations.  
 
