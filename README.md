@@ -2,33 +2,33 @@
 
 ## Introduction
 
-This document (pronounced "cee en core") provides an organizational readiness self-assessment framework for companies wishing to migrate to Cloud Native Computing. This review ensures that the technical and business alignment of the organization reflects DevOps and Cloud-Native best practices. Where gaps exist, the reviewer should seek effective ways to remediate and increase organizational efficacy, trust, and manageability. If optimally organized, your company will yield improved retention, employee satisfaction, and agility.
+This document (pronounced "cee en core") provides an organizational readiness self-assessment review framework for companies wishing to migrate to Cloud Native Computing. This review ensures that the technical and business alignment of the organization reflects DevOps and Cloud-Native best practices. Where gaps exist, the reviewer should seek effective ways to remediate and increase organizational efficacy, trust, and manageability. If optimally organized, your company will yield improved retention, employee satisfaction, and agility.
 
-The foundation for these practices comes from multiple sources including the experiences of the author, Jaice Singer DuMars, the annual State of DevOps reports, industry research and the practices of highly-successful technical organizations.  
+The foundation for these practices comes from multiple sources including the experiences of the author, Jaice Singer DuMars, the annual State of DevOps reports, industry research and the practices of highly-successful technical organizations. Ideally these considerations will be addressed before a full cloud native conversion takes place, but if not, your company can apply minimal effort in each area to begin the process, even if your technical implementation is udnerway. 
 
 ## Managing the Technology Lifecycle
 
-Migrating a company to cloud-native application delivery requires a very different approach to all phases of technology management.  No part of the business or engineering organization is untouched by the changes, but every one of them benefits.  A high-performing technology organization provides tremendous value.  For example, employees at such companies are 2.2 times more likely to recommend their workplace to friends and colleagues.  The ramifications of that one benefit extend to every corner of the business, no matter how large the enterprise.  Additionally, high-performing organizations experience 3x lower failure rates for changes introduced into customer-facing environments, 24x faster recovery times and near exponential improvements in lead times and deployment frequency.  These environments are also characterized by high levels of peer and organizational trust, as they are optimized for predictable and repeatable results, both technologically and organizationally.
+Migrating a company to cloud-native application delivery requires a very different approach to all phases of technology management.  No part of the business or engineering organization is untouched by the changes, but every one of them benefits if the implementation takes into account the overlaps, hand-offs, and idiosyncrasies.  A high-performing technology organization provides tremendous business value.  For example, employees at such companies are 2.2 times more likely to recommend their workplace to friends and colleagues.  The ramifications of that one benefit extend to every corner of the business, no matter how large the enterprise.  Additionally, high-performing organizations experience 3x lower failure rates for changes introduced into customer-facing environments, 24x faster recovery times and near exponential improvements in lead times and deployment frequency.  These environments are also characterized by high levels of peer and organizational trust, as they are optimized for predictable and repeatable results, both technologically and organizationally.
 
-In terms of the technology lifecycle, strong relationships between business units and technology silos becomes even more important than with traditionally-deployed software since the lag between ideation and delivery is significantly decreased.  Many parts of the organization may have to change the way they operate in response.  For example, traditional program and project management is typically focused on waterfall processes, even where Agile has a strong foothold in development.  This is because handoff points between product management, operations, security, compliance, architecture, marketing and legal are not smooth enough to allow for rapid, iterative deployment.  For this reason alone, many enterprises shrug off cloud computing for core business lines, limiting it to new or emerging products to experiment with.  As a result, benefits do not necessarily spread across the company, and a mature, cloud-focused suite of processes and skillsets never develops.  Some enterprises have misguidedly implemented "DevOps Teams" or DevOps as a job description to address gaps between traditional engineering organizations and cloud-optimized ones.  This is not the answer, as will be covered in more detail later.
+In terms of the technology lifecycle, strong relationships between business units and technology silos becomes even more important than with traditionally-deployed software since the lag between ideation and delivery is significantly decreased.  Many parts of the organization may have to change the way they operate in response.  For example, traditional program and project management is typically focused on waterfall processes, even where Agile has a strong foothold in development.  This is because handoff points between product management, operations, security, compliance, architecture, marketing and legal are not smooth enough to allow for rapid, iterative deployment.  For this reason alone, many enterprises shrug off cloud computing for core business lines, limiting it to new or emerging products to experiment with.  As a result, benefits do not necessarily spread across the company, and a mature, cloud-focused suite of processes and skillsets never develops.  Some enterprises have implemented "DevOps Teams" or DevOps as a job description to address gaps between traditional engineering organizations and cloud-optimized ones.  This is not a success pattern, as will be covered in more detail later.
 
 ## Organizational Review Process
 
-Depending on the size and complexity of the organization, meetings and interviews should be held with individuals and teams.  Representation will be required from all parties who have material involvement in the line of business moving to cloud-native computing.  Ideally, executive management will also participate, as top-level buyin has a significant impact on the overall success of the initiative.  
+Depending on the size and complexity of the organization, meetings and interviews should be held with individuals and teams.  Representation will be required from all parties who have material involvement in the line of business moving to cloud native computing.  Ideally, executive management will also participate, as top-level buyin has a significant impact on the overall success of the initiative.  
 
 The questions in the assessment must be asked of the primary team affected, as well as incidentally from other groups so a rounded view of perception can be assembled.  For example, Information Security teams may feel very prepared for cloud computing, but software engineers may feel security teams are not.  Where conflicting or polar opposite views exist, additional teams or individuals should be consulted to better refine where trouble spots may develop.   The aim is not to impugn anyone's efforts, but to instead limit risks by identifying and mitigating them from the outset.  
 
-Another important, and less qualitative strategy is to run retrospectives across teams or groups to get more unfiltered feedback on the current state.  It is not uncommon for whomever conducts the analysis to receive a large volume of negative feedback since they are considered a safe harbor for that information, and may help institute change.  This is an absolutely critical part of the process and may provide much value above and beyond the cloud implementation.  
+Another important, and less qualitative strategy is to run retrospectives across teams or groups to get more unfiltered feedback on the current state.  It is not uncommon for whomever conducts the analysis to receive a large volume of negative feedback since they are considered a safe harbor for that information, and may help institute change.  This is an absolutely critical part of the process and may provide much value above and beyond the cloud implementation. It cannot be stressed enough that the migration to a high-trust organiztion begins with this inquiry, and should be treated very delicately by the leadership team regardless of what may appear to be overwhelming negative sentiment. Cultural inertia is often mistaken for resistance. 
 
 ## Assessment Scoring
 
-The assessment is based on a 5 point scale with 1 being least true and 5 being most true.  The scoring is subjective and based on observations gathered during the organizational review.  Assessment questions are stated as facts. If the fact is rated a 5, then it will need little or no work.  If it is rated a 1, it will require the most work.  Urgency and severity can be assigned at the discretion of the reviewer if particular areas are rated universally low.
+The assessment is based on a 5 point scale with 1 being least true and 5 being most true.  The scoring is subjective and based on observations gathered during the organizational review.  Assessment questions are stated as facts. If the fact is rated a 5, then it will need little or no work.  If it is rated a 1, it will require the most work.  Urgency and severity can be assigned at the discretion of the reviewer if particular areas are rated universally low. Again, if the implementation is already underway, it is advisable to make sure a majority of areas are at least a 2.
 
 ## Assessment Statements
 
 ## 1. Program and Project Management
 
-Program and project management is the conduit between business strategy and execution.  Because cloud-native technologies remove blockages from the value stream, it can be difficult for organizations to manage iterative project delivery.  Quarterly "big room" Agile planning events may be necessary to untangle dependencies and align stakeholders, departments, and engineering teams.   Also, a key success factor is participation of delivery teams in plan generation since a tightly-coupled feedback loop encourages trust and limits waste.  
+Program and project management is the conduit between business strategy and execution.  Because cloud-native technologies remove blockages from the value stream, it can be difficult for organizations to manage iterative project delivery.  Quarterly "big room" Agile planning events may be necessary to untangle dependencies and align stakeholders, departments, and engineering teams.   Also, a key success factor is participation of delivery teams in plan generation since a tightly-coupled feedback loop encourages trust and limits waste. Changes early in the implementation are relatively inexpensive compared to those made later on.
 
 <table>
   <tr>
@@ -38,7 +38,7 @@ Program and project management is the conduit between business strategy and exec
   </tr>
   <tr>
     <td>1.2</td>
-    <td>Project managers use Agile, Lean or comparable practices to ensure early feedback and adjust requirements accordingly.</td>
+    <td>Project managers use Agile, Lean or comparable iterative practices to ensure early feedback and adjust requirements accordingly.</td>
     <td></td>
   </tr>
   <tr>
@@ -73,17 +73,17 @@ Program and project management is the conduit between business strategy and exec
   </tr>
   <tr>
     <td>1.9</td>
-    <td>Strategic themes behind projects and programs are clearly communicated to not only stakeholders but also all project participants.</td>
+    <td>Strategic themes behind projects and programs are clearly communicated, not only to stakeholders but also all project participants.</td>
     <td></td>
   </tr>
   <tr>
     <td>1.10</td>
-    <td>Project prioritization is accomplished through a formal exercise such as "weighted, shortest job first".</td>
+    <td>Project prioritization and cost of delay assessment are are accomplished through a formal exercise such as "weighted, shortest job first" (WSJF).</td>
     <td></td>
   </tr>
   <tr>
     <td>1.11</td>
-    <td>Corporate programs and projects use Kanban or other easy-to-understand way to radiate status to both senior leadership and stakeholders.</td>
+    <td>Corporate programs and projects use Kanban or other easy-to-understand ways to track and convey status to both senior leadership and stakeholders.</td>
     <td></td>
   </tr>
   <tr>
@@ -98,12 +98,12 @@ Program and project management is the conduit between business strategy and exec
   </tr>
   <tr>
     <td>1.14</td>
-    <td>Business cases are only as detailed as they need to be to deliver customer value.</td>
+    <td>Business cases are only as detailed as they need to be in order to deliver customer value.</td>
     <td></td>
   </tr>
   <tr>
     <td>1.15</td>
-    <td>Work breakdown structure is focused on estimating complexity and Agile estimation.</td>
+    <td>Work breakdown structure is focused on estimating complexity and leverages some form of Agile estimation.</td>
     <td></td>
   </tr>
   <tr>
@@ -138,12 +138,12 @@ Program and project management is the conduit between business strategy and exec
   </tr>
   <tr>
     <td>1.22</td>
-    <td>Customers (not just stakeholders) of programs and projects are clearly identified and consulted regularly during the progression of work.</td>
+    <td>Customers (not just stakeholders) of programs and projects are clearly identified and consulted regularly during the progression of work.  This includes demonstrations of customer value.</td>
     <td></td>
   </tr>
   <tr>
     <td>1.23</td>
-    <td>Program and project-level retrospectives are held regularly.</td>
+    <td>Program and project-level retrospectives are held regularly at the end of each delivery cycle.</td>
     <td></td>
   </tr>
   <tr>
@@ -161,7 +161,7 @@ Program and project management is the conduit between business strategy and exec
 
 ## 2. Product Management
 
-The product organization is the "why" behind everything that engineering teams do.  If there is not a steel thread running between corporate strategy, product, and engineering, it can be a serious inhibitor to success.  Product is the voice of the customer in every important conversation.  Cloud computing presents the product organization with both an opportunity and a challenge: rapid delivery of customer value.  Their job is to balance agility with non-disruptive delivery, as well as ensure that what got delivered is what customers actually want.  This includes both internal and external customers.  Additionally, operations and DevOps must become client-facing engineering organizations as well, complete with product representation.
+The product organization provides the "why" behind everything that engineering teams do since they act as a proxy for the customer.  If there is not a steel thread running between corporate strategy, product, and engineering, it can be a serious inhibitor to success.  Product is the voice of the customer in every important conversation.  Cloud computing presents the product organization with both an opportunity and a challenge: rapid delivery of customer value.  Their job is to balance agility with non-disruptive delivery, as well as ensure that what got delivered is what customers actually want.  This includes both internal and external customers.  Additionally, operations and DevOps must become client-facing engineering organizations as well, complete with product representation.
 
 <table>
   <tr>
@@ -171,22 +171,22 @@ The product organization is the "why" behind everything that engineering teams d
   </tr>
   <tr>
     <td>2.2</td>
-    <td>Requirements are limited as much as possible, instead focusing on value delivery.</td>
+    <td>Requirements are limited as much as possible, instead focusing on defining value from the perspective of the customer.</td>
     <td></td>
   </tr>
   <tr>
     <td>2.3</td>
-    <td>The "voice of the customer" is always present in design, implementation, and delivery decisions.</td>
+    <td>The "voice of the customer" is always present in design, implementation, and delivery decisions. No decisions or meetings take place without a customer or proxy present.</td>
     <td></td>
   </tr>
   <tr>
     <td>2.4</td>
-    <td>Product management has product staff (product owners) embedded directly in development and delivery teams to ensure their backlog is organized in accordance with strategy and commitments.</td>
+    <td>Product management has product staff (product owners or equivalent) embedded directly in development and delivery teams to ensure their backlog is organized in accordance with strategy and commitments.</td>
     <td></td>
   </tr>
   <tr>
     <td>2.5</td>
-    <td>Product backlog and prioritization is highly visible to stakeholders, participants, and executive management.</td>
+    <td>Product backlog and prioritization is highly visible to stakeholders, participants, and executive management. Ideally also to customers.</td>
     <td></td>
   </tr>
   <tr>
